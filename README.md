@@ -1,1 +1,0 @@
-# paychek-passport
